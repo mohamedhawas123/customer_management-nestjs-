@@ -35,8 +35,8 @@ $ npm install
 ## connect to database
 change credential in .env to your local database 
 then run
-$ npx prisma generate
-$ npx prisma db psuh
+$npx prisma generate
+$npx prisma db psuh
 
 
 
